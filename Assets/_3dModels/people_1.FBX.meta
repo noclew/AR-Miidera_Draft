@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 77925976885a11046a9f72557848f9a5
+timeCreated: 1521340693
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Female000AttachHelper
+    100002: Female000COM1
+    100004: Female000COM2
+    100006: Female000Head
+    100008: Female000LCalf
+    100010: Female000LClavicle
+    100012: Female000LFoot
+    100014: Female000LForeArm
+    100016: Female000LHand
+    100018: Female000LThigh
+    100020: Female000LToe
+    100022: Female000LUpperArm
+    100024: Female000Neck
+    100026: Female000Pelvis
+    100028: Female000RCalf
+    100030: Female000RClavicle
+    100032: Female000RFoot
+    100034: Female000RForeArm
+    100036: Female000RHand
+    100038: Female000RThigh
+    100040: Female000RToe
+    100042: Female000RUpperArm
+    100044: Female000Skin_001
+    100046: Female000Spine0
+    100048: Female000Spine1
+    100050: Female000Spine2
+    100052: Female000Spine3
+    100054: Female000Spine4
+    100056: Male000AttachHelper
+    100058: Male000COM1
+    100060: Male000COM2
+    100062: Male000Head
+    100064: Male000LCalf
+    100066: Male000LClavicle
+    100068: Male000LFoot
+    100070: Male000LForeArm
+    100072: Male000LHand
+    100074: Male000LThigh
+    100076: Male000LToe
+    100078: Male000LUpperArm
+    100080: Male000Neck
+    100082: Male000Pelvis
+    100084: Male000RCalf
+    100086: Male000RClavicle
+    100088: Male000RFoot
+    100090: Male000RForeArm
+    100092: Male000RHand
+    100094: Male000RThigh
+    100096: Male000RToe
+    100098: Male000RUpperArm
+    100100: Male000Skin_003
+    100102: Male000Spine0
+    100104: Male000Spine1
+    100106: Male000Spine2
+    100108: Male000Spine3
+    100110: Male000Spine4
+    100112: //RootNode
+    400000: Female000AttachHelper
+    400002: Female000COM1
+    400004: Female000COM2
+    400006: Female000Head
+    400008: Female000LCalf
+    400010: Female000LClavicle
+    400012: Female000LFoot
+    400014: Female000LForeArm
+    400016: Female000LHand
+    400018: Female000LThigh
+    400020: Female000LToe
+    400022: Female000LUpperArm
+    400024: Female000Neck
+    400026: Female000Pelvis
+    400028: Female000RCalf
+    400030: Female000RClavicle
+    400032: Female000RFoot
+    400034: Female000RForeArm
+    400036: Female000RHand
+    400038: Female000RThigh
+    400040: Female000RToe
+    400042: Female000RUpperArm
+    400044: Female000Skin_001
+    400046: Female000Spine0
+    400048: Female000Spine1
+    400050: Female000Spine2
+    400052: Female000Spine3
+    400054: Female000Spine4
+    400056: Male000AttachHelper
+    400058: Male000COM1
+    400060: Male000COM2
+    400062: Male000Head
+    400064: Male000LCalf
+    400066: Male000LClavicle
+    400068: Male000LFoot
+    400070: Male000LForeArm
+    400072: Male000LHand
+    400074: Male000LThigh
+    400076: Male000LToe
+    400078: Male000LUpperArm
+    400080: Male000Neck
+    400082: Male000Pelvis
+    400084: Male000RCalf
+    400086: Male000RClavicle
+    400088: Male000RFoot
+    400090: Male000RForeArm
+    400092: Male000RHand
+    400094: Male000RThigh
+    400096: Male000RToe
+    400098: Male000RUpperArm
+    400100: Male000Skin_003
+    400102: Male000Spine0
+    400104: Male000Spine1
+    400106: Male000Spine2
+    400108: Male000Spine3
+    400110: Male000Spine4
+    400112: //RootNode
+    2100000: mtl_Male000Skin_003_Color
+    2100002: Populate Custom Skin
+    2100004: mtl_Female000Skin_001_Color
+    4300000: Male000Skin_003
+    4300002: Female000Skin_001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Female000Skin_001
+    13700002: Male000Skin_003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

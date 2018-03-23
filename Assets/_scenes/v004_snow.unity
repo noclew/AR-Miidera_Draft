@@ -1127,7 +1127,7 @@ ParticleSystemRenderer:
   m_RenderMode: 0
   m_SortMode: 0
   m_MinParticleSize: 0.13
-  m_MaxParticleSize: 0.23
+  m_MaxParticleSize: 0.37
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
@@ -1762,7 +1762,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 118.32
+      scalar: 49.52
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -5481,7 +5481,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 7bbc1c6a09fb6dd4699581d0ebc53a9e, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7bbc1c6a09fb6dd4699581d0ebc53a9e, type: 3}
